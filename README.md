@@ -1,2 +1,2 @@
-# Sudoku-solver
+# Sudoku solver
 JavaScript sudoku solver
